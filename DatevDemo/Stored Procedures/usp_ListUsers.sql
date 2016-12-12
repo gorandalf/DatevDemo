@@ -3,6 +3,8 @@ AS
 BEGIN
 	SET NOCOUNT ON;
 
-	SELECT * FROM dbo.Users;
+	SELECT 
+			*
+	FROM dbo.Users;
 
 END
