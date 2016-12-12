@@ -7,16 +7,20 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatevDemo", "DatevDemo\Date
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Config 3|Any CPU = Config 3|Any CPU
+		Debug - System 1|Any CPU = Debug - System 1|Any CPU
+		Release - System 2|Any CPU = Release - System 2|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Config 3|Any CPU.ActiveCfg = Config 3|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Config 3|Any CPU.Build.0 = Config 3|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Config 3|Any CPU.Deploy.0 = Config 3|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug - System 1|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug - System 1|Any CPU.Build.0 = Debug|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Debug - System 1|Any CPU.Deploy.0 = Debug|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release - System 2|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release - System 2|Any CPU.Build.0 = Release|Any CPU
+		{9AE2105E-0074-4B46-ABF0-82FFC1B776F8}.Release - System 2|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
