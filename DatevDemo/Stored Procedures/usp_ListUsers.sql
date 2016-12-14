@@ -4,7 +4,9 @@ BEGIN
 	SET NOCOUNT ON;
 
 	SELECT 
-			*
-	FROM dbo.Users;
+			[id], [Status]
+	FROM dbo.Users
+
+
 
 END
